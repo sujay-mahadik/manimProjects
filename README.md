@@ -32,6 +32,6 @@ python extract_scene.py example_scenes.py SquareToCircle -pl
 ## Scripts and Demos
 Gif demos of the scripts I have experimented with
 ### Hello World
-![Alt Text](https://github.com/sujay-mahadik/manimProjects/blob/master/gifs/hello_world.gif)
+ <img src="https://github.com/sujay-mahadik/manimProjects/blob/master/gifs/hello_world.gif" alt="Hello World">
 
 [Hello World Script](https://github.com/sujay-mahadik/manimProjects/blob/master/scripts/hello_world.py)
