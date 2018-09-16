@@ -42,3 +42,13 @@ python3 extract_scene.py scripts/hello_world.py HelloWorld -pl
 ```
 
  We are calling the Python3 interpreter with the `python3` command. The first argument `extract_scene.py` is the part of manim code that runs your script, imports necessary files and creates files. This argument will always be needed. The second argument `scripts/hello_world.py` is the name of the file with custom scripts. The third argument `HelloWorld` is the name of class for which you are creating the scene. A single file can contain multiple classes, you need to specify the class name for which you are creating the scene. The last arguments are well documented in installation section
+
+### Shape Transformations
+ <img src="https://github.com/sujay-mahadik/manimProjects/blob/master/gifs/shape_transformations.gif" alt="Shape Transformations">
+
+[Shape Transformation Script](https://github.com/sujay-mahadik/manimProjects/blob/master/scripts/shape_transformations.py)
+
+Run:
+```
+python3 extract_scene.py scripts/shape_transformations.py ShapeTransformations -pl
+```
